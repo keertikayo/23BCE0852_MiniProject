@@ -15,7 +15,7 @@ Welcome to **Online Food Service**, a web app built with React that lets users b
 ```bash
 # Clone the repository
 git clone https://github.com/keertikayo/23BCE0852_MiniProject.git
-cd online-food-service
+cd 23BCE0852_MiniProject
 
 # Install dependencies
 npm install
