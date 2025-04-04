@@ -30,7 +30,7 @@ Then open your browser and visit:
 ## 📁 Project Structure
 
 ```plaintext
-online-food-service/
+23BCE0852_MiniProject/
 ├── node_modules/
 ├── package-lock.json
 ├── package.json
